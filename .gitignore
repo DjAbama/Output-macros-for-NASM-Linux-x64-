@@ -1,23 +1,18 @@
+
 *.o
-*.exe
-*.com
-*.bin
-*.out
-*.elf
+*.obj
+
 
 *.lst
 *.map
+*.sym
 
-*.pdb
-*.ilk
-*.tds
-*.dbg
 
+main
+app
+a.out
+
+
+*.log
 .vscode/
-.vs/
-*.suo
-*.user
-*.sln
-
-.DS_Store
-Thumbs.db
+.idea/
